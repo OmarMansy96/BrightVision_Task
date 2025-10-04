@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Task_Scene.unity
+    guid: 4bbed795e818be14eaf2f1387e07a4a5
+  - enabled: 0
+    path: Assets/FurnishedCabin/Scenes/Demo.unity
+    guid: 0bce5907d797a4cd8b0660dc119867e8
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b6123d8f8b46ad44495d2b4497ed53b6, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2960685c9ac23a2439c527a0b3f0ccfd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 004c4fc6655998c4fa25a5ccf634005e, type: 2}
   m_UseUCBPForAssetBundles: 0
